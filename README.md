@@ -41,4 +41,4 @@ Irene Acosta
 ## Citation
 If you use this repository in your research, please cite it as:
 
-Acosta, I., 2026. R scripts for steroid data processing and analysis (v1.0.0). [software]. Zenodo. https://doi.org//10.5281/zenodo.19443844.
+Acosta I., 2026. R scripts for steroid data processing and analysis (v1.0.0). [software]. Zenodo. https://doi.org//10.5281/zenodo.19443844.
